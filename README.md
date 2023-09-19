@@ -7,4 +7,4 @@ The dataset typically used for this project contains information
 about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived
 
-https://colab.research.google.com/drive/1A_lgI7nDZbs-CfuoIs6LdGDsfA0Ee56_
+https://colab.research.google.com/drive/1A_lgI7nDZbs-CfuoIs6LdGDsfA0Ee56_?usp=sharing
